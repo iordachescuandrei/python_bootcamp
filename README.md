@@ -6,7 +6,7 @@ Following the Udemy course: https://www.udemy.com/course/100-days-of-code/
 <br />
 - starting from scratch 
 <br />
-- create more and more complex projects
+- create more and more complex projects 
 <br />
 
 
