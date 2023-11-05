@@ -18,6 +18,7 @@ def compare():
     ok = True
     score = 0
     while ok:
+        #---------------------#
         name1=account1["name"]
         description1 = account1["description"]
         country1= account1 ["country"]
@@ -26,6 +27,7 @@ def compare():
         description2 = account2["description"]
         country2= account2["country"]
         followers2 = account2["follower_count"]
+        #---------------------# the above are needed for taking the value of each key from dictionary
         print (f"Compare A {name1} {description1} from {country1} ")
         print (vs)
         print(f"With B {name2} {description2} from {country2} ")
