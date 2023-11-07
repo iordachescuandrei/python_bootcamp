@@ -12,7 +12,7 @@ def choose():
     choise = random.choice(data)
     return choise
 def compare():
-    # choose function will return a tuple with 2 dictionaries. I will need to compare the follower_count of each name
+    # choose() will return a tuple with 2 dictionaries. I will need to compare the follower_count of each name
     account1 = choose()
     account2 = choose()
     ok = True
