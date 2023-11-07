@@ -1,4 +1,4 @@
-#coffee machine
+#coffee machine program
 MENU = {
     "espresso": {
         "ingredients": {
